@@ -1,0 +1,9 @@
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/model/Donazione.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/model/Ruolo.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/repo/RuoloRepository.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/SpringJpaPostgreSqlApplication.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/security/WebSecurity.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/repo/UserRepository.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/repo/DonazioneRepository.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/controller/WebController.java
+/Users/chuckbartowski/Desktop/SpringJPA-PostgreSQL/src/main/java/com/springjpa/model/Utente.java
